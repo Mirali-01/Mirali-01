@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <a href="" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="React" height="40" style="vertical-align:top; margin:4px"> </a>
+<!--  <a href="" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="React" height="40" style="vertical-align:top; margin:4px"> </a> -->
  <a href="https://www.linkedin.com/in/mir-mali/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="React" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:mir.m.ali01@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="React" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
