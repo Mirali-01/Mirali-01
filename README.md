@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!--  <a href="" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="React" height="40" style="vertical-align:top; margin:4px"> </a> -->
- <a href="https://www.linkedin.com/in/mir-mali/" target="_blank" rel="noopener noreferrer"> <img src="https://iconsplace.com/wp-content/uploads/_icons/800000/256/png/linkedin-icon-8-256.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/mir-mali/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:mir.m.ali01@gmail.com"> <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
